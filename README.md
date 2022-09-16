@@ -6,7 +6,7 @@ Projeto contruído do
 evento Next Level Week
 da Rocketseat.
 
-[clique aqui para acessar](https://ales3br.github.io/NLW)
+[clique aqui para acessar](https://alexs3br.github.io/NLW/)
 
 ## Tecnologias
 
